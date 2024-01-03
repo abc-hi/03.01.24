@@ -4,7 +4,7 @@
 url:https://restcountries.com/v3.1/all  by using Array methods such as filter(), reduce(), foreach() ***
 
 
-  Following tasks are done and I kept each task in separate .js file in this Repository, also I kept separate html file for each .js file to run on browser.
+  Following tasks are done and I kept each task in separate .js file, also I kept separate html file for each .js file to run on browser.
 
    
 
